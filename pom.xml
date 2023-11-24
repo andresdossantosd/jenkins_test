@@ -36,7 +36,7 @@
 					</execution>
 				</executions>
 				<configuration>
-					<scope>test</scope>
+					<scope>compile</scope>
 				</configuration>
 			</plugin>
 		</plugins>
